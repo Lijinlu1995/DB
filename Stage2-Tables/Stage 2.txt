@@ -1,0 +1,9 @@
+Stage 2:
+Add the Table.java which including the insert, delete, update and select data.
+with the print the record and divider to show the database table.
+
+database table is a string with ArrayList which is easier to edited
+         insert() function first to check whether the size is enable to add into the ArrayList
+         delete() function is to remove the record from the ArrayList after check the index number.
+	 update() function is to restore the record remove the old one and add a new record.
+	 select() function is to show the select record with table.

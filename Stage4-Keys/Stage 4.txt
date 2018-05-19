@@ -1,0 +1,4 @@
+Stage 4：
+This stage also update the Table.java as the basis of Stage 2,
+since users can define which data is primary key, each data should be unique.
+every records should have an int key (or we can call it ID) which can auto added.

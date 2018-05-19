@@ -1,0 +1,16 @@
+User manual：
+“tableName” for load this table with this name;
+“create tableAttributes” for create a temp table in the Stack;
+“save tableName” for save this table in the database;
+“delete tableName” for delete this table from database;
+“show tableName” for list the table records without save in the Stack;
+“rename colmnName newName” for rename the colmn name;
+“add attributesValue” for add new records;
+“list” for show all the tables in the current database;
+“clear” for clear the Stack value
+“quit” for quit from the current level.
+
+
+How to run:
+       javac Main.java
+       java  Main

@@ -1,0 +1,8 @@
+Stage 6:
+This stage is also the final version of this assignment, 
+this part main achieved a simple textual interface like the catalogs function. 
+Basis on the stage 5, add a Catalogs.java to achieved textual interface. 
+This class choose use stack to store the catalogs user command, 
+since the Stack including the push (), pop (), peek () etc. functions 
+which is similar with this catalogs required and 
+the Stack is like grow able array of objects can manage the user command easily. 

@@ -1,0 +1,7 @@
+Stage 5:
+This stage have make some change, since last Stage all the functions are written in the Table.java
+which is not easy to classfiy and use those functions.
+So I write separately and adding classes Files.java and Print.java 
+for the function load&save records and print out the table.
+At the same time add a Main.java as the main function instead of the DB.java in previous Stages
+And for DB.java only used for storage all the table in the database.

@@ -1,0 +1,6 @@
+Stage 3：
+This stage update the Table.java as the basis of Stage 2,
+add the function of save and load files
+add a animal.txt for test the load record from file to table,
+and in the self test part, test save function to save a test.txt
+and finally delect this txt at the end of test part.
